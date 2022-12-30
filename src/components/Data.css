@@ -1,0 +1,9 @@
+.form-control{
+    width: 15%;
+    margin-left: 50px;
+    
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
